@@ -20,7 +20,7 @@ def main_game():
                 for del_element in range(temp_list_middle):
                     del temp_list[0]
     
-    return(count) # Функция возвращает количесто попыток поиска числа.
+    return(count)  # Функция возвращает количесто попыток поиска числа.
 
 
 def mean_score_count(main_game, check_count=1000):
